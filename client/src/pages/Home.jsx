@@ -26,8 +26,6 @@ const Home = () => {
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
                 LET'S <br className="xl:block hidden" />
-                FUCKING
-                <br />
                 DO IT.
               </h1>
             </motion.div>
@@ -36,9 +34,8 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md  font-normal text-gray-600 text-base">
-                My friend <strong>SARTHAK NOOB</strong> has T-shirt buying
-                fetish so i have build a website which helps to preview T-shirts
-                in 3D before buying. ENJOY!!!
+                I have build a website which helps to preview T-shirts in 3D
+                before buying. ENJOY!!!
                 <br /> AI feature does not works yet but will be in future
               </p>
 
